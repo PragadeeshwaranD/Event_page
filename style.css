@@ -6,6 +6,7 @@
 li>a{
     text-decoration: none;
     font-size: 20px;
+    font-family: 'Roboto', sans-serif;
     color:white;
 }
 .container1{
@@ -46,6 +47,7 @@ body{
 .com1>p{
     font-size: 20px;
     font-weight: bold;
+    font-family: 'Roboto', sans-serif;
     margin-top: 40px;
 }
 .com1>img{
